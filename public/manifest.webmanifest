@@ -1,0 +1,17 @@
+{
+  "name": "Life OS - 人生操作系统",
+  "short_name": "Life OS",
+  "description": "看清自己，建立能力，创造价值",
+  "theme_color": "#3d8966",
+  "background_color": "#fafaf9",
+  "display": "standalone",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
